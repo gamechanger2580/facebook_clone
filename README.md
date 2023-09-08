@@ -1,2 +1,2 @@
 # facebook_login_clone
-<img src="![image](https://github.com/gamechanger2580/facebook_clone/assets/52589175/506744d8-d782-433e-a44b-cf2df41059da)" alt="Facebook" width="500" height="600">
+![image](https://github.com/gamechanger2580/facebook_clone/assets/52589175/cecff71c-9a9b-46bd-9f44-728f03a7c323)
