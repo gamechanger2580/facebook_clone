@@ -1,2 +1,2 @@
 # facebook_login_clone
-![image](https://github.com/gamechanger2580/facebook_clone/assets/52589175/cecff71c-9a9b-46bd-9f44-728f03a7c323)
+![image](https://github.com/gamechanger2580/facebook_login_clone/assets/52589175/1a7516dc-457b-438d-9dec-9c1093f6d015)
